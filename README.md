@@ -1,16 +1,20 @@
-### Hi there 👋
+# Daniel Hernan Maccarone
 
-<!--
-**dhmaccarone/dhmaccarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy un estudiante del bootcamp de **Guillermo Rodas**. Actualmente resido en Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+### Comandos importantes Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Comando | Descripción |
+| ------ | ------ |
+| cd | Nos permite movernos entre carpetas |
+| ls | Listar archivos de la ubicación en cuestion |
+| mkdir | Sirve para crear una nueva carpeta |
+| rmdir | Elimina entradas de directorios vacíos |
+| cp | Copiar archivos o directorios. Para copiar un directorio se debe agregar el modificador "-r". |
+
+### Alias indiispensables Linux
+
+- **alias .3="cd ../../.."** =  .3 para subir 3 niveles en la estructura de directorios.
+- **alias cp="cp -i"** =  Antes de sobreescribir un fichero nos pedirá confirmación.
+
+<http://localhost:8080/dmaccarone/index.html>
